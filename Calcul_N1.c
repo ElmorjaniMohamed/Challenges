@@ -27,7 +27,7 @@ int main()
     }
     else if (operateur=='/'){
 
-          if (N2>0)
+          if (N2 != 0)
             printf("N1 / N2 = %.2f",N1/N2);
           else
               printf("La division est impossible");
