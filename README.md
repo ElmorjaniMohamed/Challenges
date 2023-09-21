@@ -1,5 +1,5 @@
 # Travail_à_Faire
-Challenge 1 : Affichage Informations
+# Challenge_1 : Affichage Informations
 Écrivez un programme en C qui va te permettre d'afficher vos informations personnelles : Nom, prénom , Age , Sexe et numéro de téléphone. Les données sont saisies à partir du clavier.
 
 # Challenge_2 : Affichage Température
