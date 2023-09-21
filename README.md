@@ -21,11 +21,11 @@ Ecrivez un programme C pour trouver la distance entre deux points donnés. La fo
 # Challenge_7 : Nombre entier à trois chiffres en ordre inverse
 Écrivez un programme C pour afficher un nombre entier à trois chiffres dans l'ordre inverse sans utiliser la boucle. Par exemple, si le nombre entier est 234, son inverse est 432.
 
-Challenge 8 : Affichage de la valeur octale et hexadécimale équivalente
+# Challenge_8 : Affichage de la valeur octale et hexadécimale équivalente
 Écrivez un programme C pour afficher la valeur équivalente en octal et en hexadécimal. Entrez un nombre entier et affichez sa valeur équivalente en octal et en hexadécimal.
 
 
-II. Les Conditions
+# II. Les Conditions
 
 Pré-requis:
 - Connaissance des Types de Données : Comprendre les types de données en C, en particulier les entiers (int) et les caractères (char).
@@ -44,19 +44,19 @@ Pré-requis:
 
 - Boucles (le cas échéant) : Si les challenges nécessitent des boucles (for, while), connaître leur fonctionnement.
 
-Challenge 1 : Paire ou Impaire
+# Challenge_1 : Paire ou Impaire
 Ecrivez un programme qui demande un nombre et affiche si ce nombre est paire ou impaire
 
-Challenge 2 :
+# Challenge_2 :
 Ecrivez un programme en C qui vérifie si un caractère saisi par l'utilisateur est une voyelle ou non en utilisant l'instruction switch case.
 
-Challenge 3 :
+# Challenge_3 :
 Ecrivez un programme C pour calculer la somme de deux valeurs entières données. Si les deux valeurs sont identiques, il renvoie le triple de leur somme.
 
-Challenge 4 : Equation deuxième degré
+# Challenge_4 : Equation deuxième degré
 Écrivez un programme C qui permet de calculer les solutions possible d’une équation 2ème degré.
 
-Challenge 5 : Programme guidé par menu pour convertir l'année
+# Challenge_5 : Programme guidé par menu pour convertir l'année
 Ecrire un programme C piloté par menu pour convertir une année donnée en,
 
 Mois
@@ -64,29 +64,29 @@ Jours
 Heures
 Minutes
 Secondes Pour plus de simplicité, n'incluez pas l'année bissextile (sauf si vous êtes courageux pour le faire). 1 an = 365 jours 1 mois = 30 jours
-Challenge 6 :
+# Challenge_6 :
 Ecrivez un programme pour vérifier si le nombre donné est positif, négatif ou nul. Si le nombre est inférieur à zéro, alors le nombre est négatif et si le nombre est supérieur à zéro, alors le nombre est positif. Si les deux conditions sont fausses, le nombre est égal à zéro.
 
-Challenge 7 :
+# Challenge_7 :
 Écrivez un programme pour vérifier si le caractère donné est un alphabet majuscule ou non en utilisant l'instruction conditionnelle if-else en C. Les lettres majuscules vont de 'A' à 'Z'. Les valeurs ASCII de 'A' et 'Z' sont respectivement 65 et 90. Si la valeur ASCII d'un caractère est comprise entre 65 et 90, il s'agit d'un alphabet majuscule.
 
-Challenge 8 :
+# Challenge_8 :
 Nous désirons afficher la mention obtenue par un élève en fonction de la moyenne de ses notes. S’il a une moyenne strictement inférieure a 10, il est recalé. S’il a une moyenne entre 10 (inclus) et 12, il obtient la mention passable. S’il a une moyenne entre 12 (inclus) et 14, il obtient la mention assez bien. S’il a une moyenne entre 14 (inclus) et 16, il obtient la mention bien. S’il a une moyenne supérieure a 16 (inclus) il obtient la mention très bien. Ecrire les instructions nécessaires.
 
-Challenge 9 :
+# Challenge_9 :
 Ecrire un programme C qui lit un caractère et détermine s'il fait partie des alphabets ou non. Et s'il l'est, dire en plus s’il est une minuscule ou une majuscule.
 
-Challenge 10 :
+# Challenge_10 :
 Ecrire un programme C qui lit une date au format 15/09/2012 et l'affiche sous le format suivant: 15-Septembre-2012.
 
-Challenge 11:
+# Challenge_11:
 Ecrire un programme C qui affiche d'une manière aléatoire un des jours de la semaine.
 
-III. Les Boucles:
-Challenge 1: table de multiplication
+# III. Les Boucles:
+# Challenge_1: table de multiplication
 Ecrire un algorithme qui demande un nombre à l’utilisateur, puis affiche sa table de multiplication de 1 à 10
 
-Challenge 2: pyramide d'étoile
+# Challenge_2: pyramide d'étoile
       *
      ***
     *****
@@ -96,11 +96,11 @@ Challenge 2: pyramide d'étoile
 *************
 Écrire le programme pour avoir un pyramide d'étoile, le nombre des lignes à composer est demandé à l’utilisateur.(chaque ligne doit avoir un nombre premier d'étoiles.
 
-Challenge 3 :
+# Challenge_3 :
 Écrire un programme C qui lit un entier puis détermine s'il est premier ou non. On rappelle qu'un entier est dit premier s'il a exactement deux diviseurs différents; 1 et lui-même. Ex: 2, 3, 7, 17, 101 sont tous premiers, et 4, 10, 27 ne le sont pas.
 
-Challenge 4 :
+# Challenge_4 :
 Écrire un programme C qui lit une série d'entiers positifs inférieurs à 100 terminée par 0. Et qui doit négliger toute entrée strictement supérieure à 100. Puis calcule et affiche la somme et le max des éléments de cette série.
 
-Challenge 5:
+# Challenge_5:
 Écrire un programme C qui lit un entier et l'affiche inversée. On choisira de ne pas afficher chiffre par chiffre mais de construire l'entier inversé puis l'afficher. Ex: si l'entrée est 12345 on doit afficher l'entier 54321.
