@@ -1,24 +1,24 @@
-Travail à Faire
+# Travail_à_Faire
 Challenge 1 : Affichage Informations
 Écrivez un programme en C qui va te permettre d'afficher vos informations personnelles : Nom, prénom , Age , Sexe et numéro de téléphone. Les données sont saisies à partir du clavier.
 
-Challenge 2 : Affichage Température
+# Challenge_2 : Affichage Température
 Ecrivez un programme qui demande la température en Fahrenheit et la transforme en degré Celsius et affiche la sensation ressentie (très froid, froid, chaud, très chaud) La formule :
 
 C = (F-32)/1.8
-Challenge 3 : Calcule et affichage résultat en format décimal
+# Challenge_3 : Calcule et affichage résultat en format décimal
 a et b sont deux entiers saisies au clavier, calculez et affichez a+b, a-b, a*b, a/b, a%b en format décimal, et en soignant l’interface homme/machine. (a/b donne le quotient de la division, a%b donne le reste de la division)
 
-Challenge 4 : Moyenne et somme de 4 nombres
+# Challenge_4 : Moyenne et somme de 4 nombres
 Écrivez un programme en C pour trouver la somme et la moyenne de quatre nombres. Prenez les entrées de l'utilisateur final. Explication : Soit trois nombres a, b et c alors, Somme = (a+b+c) et, Moyenne = somme/3
 
-Challenge 5 : Distance entre deux points
+# Challenge_5 : Distance entre deux points
 Ecrivez un programme C pour trouver la distance entre deux points donnés. La formule de distance est dérivée du théorème de Pythagore. Pour trouver la distance entre deux points (x1, y1) et (x2, y2), il suffit d'utiliser les coordonnées de ces paires ordonnées et d'appliquer la formule. Formule de distance Supposons que nous ayons deux points M et N, dont les coordonnées sont respectivement (x1, y1) et (x2, y2). Leur distance peut être représentée par MN et peut être calculée selon la formule ci-dessous, Le premier point (M):- (x1, y1) Deuxième point (N) : (x2, y2) Distance (MN):- √((x2-x1)² + (y2-y1)²) Exemple:- M = (4, 8) N = (12, 14) Alors la distance entre M et N est MN = √((12-4)² + (14-8)²) = √(64 + 36) = √(100) = 10
 
-Challenge 6 : Circonférence d'un cercle
+# Challenge_6 : Circonférence d'un cercle
 Écrivez un programme pour trouver la circonférence d'un cercle. Prenez le rayon du cercle en entrée de l'utilisateur. La formule pour, la circonférence du cercle = 2πr ; où r est le rayon.
 
-Challenge 7 : Nombre entier à trois chiffres en ordre inverse
+# Challenge_7 : Nombre entier à trois chiffres en ordre inverse
 Écrivez un programme C pour afficher un nombre entier à trois chiffres dans l'ordre inverse sans utiliser la boucle. Par exemple, si le nombre entier est 234, son inverse est 432.
 
 Challenge 8 : Affichage de la valeur octale et hexadécimale équivalente
